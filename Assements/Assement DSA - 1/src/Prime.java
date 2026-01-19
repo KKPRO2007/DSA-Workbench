@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ṇimport java.util.Scanner;
 public class Prime {
     public static void main(String[] args) {
         Scanner z = new Scanner(System.in);
