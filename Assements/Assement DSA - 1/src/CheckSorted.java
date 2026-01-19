@@ -19,3 +19,4 @@ public class CheckSorted {
             System.out.println("Array is not sorted");
     }
 }
+
