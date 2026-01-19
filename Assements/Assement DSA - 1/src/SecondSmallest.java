@@ -19,5 +19,6 @@ public class SecondSmallest {
         }
         System.out.println("Second Smallest = " + second);
     }
+
 }
 
