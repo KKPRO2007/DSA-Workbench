@@ -18,5 +18,6 @@ public class ArrayFreq {
             if (f[i] > 0)
                 System.out.println(i + " -> " + f[i]);
         }
+
     }
 }
