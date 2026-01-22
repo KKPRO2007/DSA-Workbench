@@ -2,18 +2,13 @@ import java.util.Scanner;
 public class LCM {
     public static void main(String[] args) {
         Scanner z = new Scanner(System.in);
-        int x = z.nextInt();
-        int y = z.nextInt();
-        int gcd = 1;
-        int a = x, b = y;
-
-        while (b != 0) {
-            int r = a % b;
-            a = b;
-            b = r;
+        int x=z.nextInt(),y=z.nextInt();
+        int a=x, b=y;
+        while(b!=0){
+            int r=a%b;
+            a=b; b=r;
         }
-        gcd = a;
-        int lcm = (x * y) / gcd;
+        int lcm=(x*y)/a;
         System.out.println(lcm);
-    }
+}
 }

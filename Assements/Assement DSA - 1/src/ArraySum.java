@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ArraySum {
+public class                                                                                                        ArraySum {
     public static void main(String[] args) {
         Scanner z = new Scanner(System.in);
         int n = z.nextInt();
