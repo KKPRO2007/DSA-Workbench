@@ -7,16 +7,12 @@ public class Prime {
             System.out.println("no");
             return;
         }
-        int flag = 0;
         for (int i = 2; i * i <= n; i++) {
             if (n % i == 0) {
-                flag = 1;
-                break;
+                System.out.println("no");
+                return;
             }
         }
-        if (flag == 0)
-            System.out.println("prime");
-        else
-            System.out.println("no");
+        System.out.println("yes");
     }
 }

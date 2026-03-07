@@ -2,22 +2,14 @@ import java.util.Scanner;
 public class LinearSearch {
     public static void main(String[] args) {
         Scanner z = new Scanner(System.in);
-        int n = z.nextInt();
-        int a[] = new int[n];
-        for (int i = 0; i < n; i++)
-            a[i] = z.nextInt();
-        int key = z.nextInt();
-        int flag = 0;
-        for (int i = 0; i < n; i++) {
-            if (a[i] == key) {
-                flag = 1;
-                break;
+        int n = z.nextInt(); int a[]=new int [n];
+        for(int i =0; i<n; i++) a[i]= z.nextInt();
+        int key =z.nextInt(); for(int i=0; i<n;i++){
+            if(a[i]==key){
+                System.out.println("found");
+                return;
             }
         }
-            if (flag == 1)
-                System.out.println("found");
-            else
-                System.out.println("not found");
-
+        System.out.println("not found");
     }
 }
