@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1f25267-6708-4e82-b626-5501c6dd7c40" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DSA-Workbench.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/Assement DSA - 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/A_test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/ArrayAvg.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/ArrayAvg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/ArrayFreq.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/ArrayFreq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/ArrayIndexSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/ArrayIndexSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/ArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/ArraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/Arraydelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/Arraydelete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/CheckSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/CheckSorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/CountNegativeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/CountNegativeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/EvenOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/GCD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/IntersectionArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/IntersectionArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/LCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/LCM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/MaxArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/MaxArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/MergeArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/MergeArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/PalindromeNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/PalindromeNo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/Power.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/Prime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/PrintOddNumbersAndCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/PrintOddNumbersAndCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/ReverseNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/ReverseNo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/SecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/SecondLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/SecondSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/SecondSmallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/Substring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/countNoDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/countNoDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/subarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/A_test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/ArrayAvg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/ArrayFreq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/ArrayIndexSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/ArraySum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/Arraydelete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/CheckSorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/CountNegativeNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/EvenOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/GCD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/IntersectionArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/LCM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/LinearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/MaxArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/MergeArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/PalindromeNo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/Power.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/Prime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/PrintOddNumbersAndCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/ReverseNo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/SecondLargest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/SecondSmallest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/Substring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/SumOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/countNoDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/subarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Main.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="kk professional &lt;kkpro2007@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;searchQuery&quot;: &quot;Code&quot;,
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;KKPRO2007&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;searchQuery&quot;: &quot;Code&quot;,
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KKPRO2007&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KKPRO2007/DSA-Workbench.git&quot;,
+    &quot;accountId&quot;: &quot;ece4441a-411f-4ada-a16d-ad527ab895a0&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Security Analysis" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="38SXPzrGBsf2uosumbOaCjpyDk5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.A_test.executor": "Run",
+    "Application.ArrayAvg.executor": "Run",
+    "Application.ArrayFreq.executor": "Run",
+    "Application.ArraySum.executor": "Run",
+    "Application.Array_Frequency.executor": "Run",
+    "Application.Arraydelete.executor": "Run",
+    "Application.CheckSorted.executor": "Run",
+    "Application.Codes.Substring.executor": "Run",
+    "Application.FInd_max_element_inarray.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Find_gcd_of_two_no.executor": "Run",
+    "Application.LCM.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
+    "Application.Linear_search.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxArray.executor": "Run",
+    "Application.MergeArrays.executor": "Run",
+    "Application.PalindromeNo.executor": "Run",
+    "Application.Prime.executor": "Run",
+    "Application.PrintOddNumbersAndCount.executor": "Run",
+    "Application.Reverse_a_no.executor": "Run",
+    "Application.Reverse_an_array.executor": "Run",
+    "Application.SecondLargest.executor": "Run",
+    "Application.SecondSmallest.executor": "Run",
+    "Application.Substring.executor": "Run",
+    "Application.SumOfDigits.executor": "Run",
+    "Application.Sum_of_digits.executor": "Run",
+    "Application.check_prime_no.executor": "Run",
+    "Application.countNoDigit.executor": "Run",
+    "Application.subarray.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/DSA-Workbench/Java/src/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DSA-Workbench\Java\src" />
+      <recent name="D:\DSA-Workbench\Java" />
+      <recent name="D:\DSA-Workbench" />
+      <recent name="D:\DSA-Workbench\Assements" />
+      <recent name="D:\DSA-Workbench\DP" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Anagram">
+    <configuration name="A_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A_test" />
+      <module name="Assement DSA - 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codes.Anagram" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Arraydelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arraydelete" />
+      <module name="Assement DSA - 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codes.Substring" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="countNoDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codes.countNoDigit" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="Assement DSA - 1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Assement DSA - 1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Anagram" />
+        <item itemvalue="Application.Codes.Substring" />
+        <item itemvalue="Application.countNoDigit" />
+        <item itemvalue="Application.Arraydelete" />
+        <item itemvalue="Application.A_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1f25267-6708-4e82-b626-5501c6dd7c40" name="Changes" comment="" />
+      <created>1768793926456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768793926456</updated>
+      <workItem from="1768793938172" duration="615000" />
+      <workItem from="1768811672415" duration="612000" />
+      <workItem from="1768834026833" duration="5885000" />
+      <workItem from="1768925383871" duration="1069000" />
+      <workItem from="1769083280618" duration="8935000" />
+      <workItem from="1769144459078" duration="2346000" />
+      <workItem from="1769154626712" duration="2163000" />
+      <workItem from="1770127807916" duration="2325000" />
+      <workItem from="1772879188655" duration="29000" />
+    </task>
+    <task id="LOCAL-00001" summary="Code">
+      <option name="closed" value="true" />
+      <created>1768794547007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768794547007</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Code">
+      <option name="closed" value="true" />
+      <created>1768839221289</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768839221289</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Code">
+      <option name="closed" value="true" />
+      <created>1768839410247</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768839410248</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Code">
+      <option name="closed" value="true" />
+      <created>1768839420363</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768839420363</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Code">
+      <option name="closed" value="true" />
+      <created>1768839469120</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1768839469120</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Code">
+      <option name="closed" value="true" />
+      <created>1768839485336</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1768839485336</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Code">
+      <option name="closed" value="true" />
+      <created>1772907435345</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1772907435346</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Code">
+      <option name="closed" value="true" />
+      <created>1772907448822</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1772907448822</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1772907977846</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1772907977846</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Code" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java/src/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java/src/Codes/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java/src/Codes/SumOfDigits.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java/src/Codes/Factorial.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java/src/Codes/LinearSearch.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java/src/Codes/untitled/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Java/src/Codes/SecondSmallest.java</url>
+          <line>2</line>
+          <properties class="SecondSmallest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
