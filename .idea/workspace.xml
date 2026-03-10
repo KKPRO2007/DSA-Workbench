@@ -5,71 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1f25267-6708-4e82-b626-5501c6dd7c40" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DSA-Workbench.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/Assement DSA - 1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/A_test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/ArrayAvg.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/ArrayAvg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/ArrayFreq.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/ArrayFreq.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/ArrayIndexSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/ArrayIndexSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/ArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/ArraySum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/Arraydelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/Arraydelete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/CheckSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/CheckSorted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/CountNegativeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/CountNegativeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/EvenOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/GCD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/IntersectionArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/IntersectionArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/LCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/LCM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/LinearSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/MaxArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/MaxArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/MergeArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/MergeArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/PalindromeNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/PalindromeNo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/Power.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/Prime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/PrintOddNumbersAndCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/PrintOddNumbersAndCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/ReverseNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/ReverseNo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/SecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/SecondLargest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/SecondSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/SecondSmallest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/Substring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/SumOfDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/countNoDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/countNoDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assements/Assement DSA - 1/src/subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Codes/subarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/A_test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/ArrayAvg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/ArrayFreq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/ArrayIndexSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/ArraySum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/Arraydelete.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/CheckSorted.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/CountNegativeNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/EvenOdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/GCD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/IntersectionArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/LCM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/LinearSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/MaxArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/MergeArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/PalindromeNo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/Power.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/Prime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/PrintOddNumbersAndCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/ReverseArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/ReverseNo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/SecondLargest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/SecondSmallest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/Substring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/SumOfDigits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/countNoDigit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assement DSA - 1/subarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Main.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/Codes/PalindromeString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +73,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.A_test.executor": "Run",
+    "Application.Anagram.executor": "Run",
     "Application.ArrayAvg.executor": "Run",
     "Application.ArrayFreq.executor": "Run",
     "Application.ArraySum.executor": "Run",
@@ -152,6 +91,7 @@
     "Application.MaxArray.executor": "Run",
     "Application.MergeArrays.executor": "Run",
     "Application.PalindromeNo.executor": "Run",
+    "Application.PalindromeString.executor": "Run",
     "Application.Prime.executor": "Run",
     "Application.PrintOddNumbersAndCount.executor": "Run",
     "Application.Reverse_a_no.executor": "Run",
@@ -168,6 +108,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -191,7 +132,7 @@
       <recent name="D:\DSA-Workbench\DP" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Anagram">
+  <component name="RunManager" selected="Application.PalindromeString">
     <configuration name="A_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A_test" />
       <module name="Assement DSA - 1" />
@@ -219,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codes.Substring" />
+    <configuration name="PalindromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codes.PalindromeString" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="Codes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,8 +224,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromeString" />
         <item itemvalue="Application.Anagram" />
-        <item itemvalue="Application.Codes.Substring" />
         <item itemvalue="Application.countNoDigit" />
         <item itemvalue="Application.Arraydelete" />
         <item itemvalue="Application.A_test" />
@@ -387,7 +328,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772907977846</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1773080564097</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1773080564097</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
