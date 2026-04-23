@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Compile Java Project",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-Command",
+        "$sources = Get-ChildItem Array,Basic,LinkedList,Queue,Stack,String,Tree -Recurse -Filter *.java | ForEach-Object { $_.FullName }; if (!(Test-Path out)) { New-Item -ItemType Directory -Path out | Out-Null }; javac -d out $sources"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": [
+        "$javac"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}

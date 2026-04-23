@@ -1,0 +1,16 @@
+{
+  "java.project.sourcePaths": [
+    "."
+  ],
+  "java.project.outputPath": "out",
+  "java.project.referencedLibraries": [],
+  "code-runner.runInTerminal": true,
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.executorMap": {
+    "java": "cmd /c \\\"cd /d \\\"$dir\\\" && del /q *.class 2>nul && javac \\\"$fileName\\\" && java \\\"$fileNameWithoutExt\\\"\\\""
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "files.exclude": {
+    "**/out": true
+  }
+}
