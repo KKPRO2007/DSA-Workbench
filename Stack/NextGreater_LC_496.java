@@ -1,3 +1,4 @@
+// LeetCode 496
 import java.util.*;
 public class NextGreater_LC_496 {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {

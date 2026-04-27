@@ -1,3 +1,4 @@
+// LeetCode 1047
 import java.util.*;
 public class RemoveAdjDuplicates {
     public String removeDuplicates(String s) {

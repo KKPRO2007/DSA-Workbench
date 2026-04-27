@@ -1,88 +1,181 @@
 
 public class List {
 
-    static class Node {
-        int value;
-        Node next;
-
-        Node(int value) {
-            this.value = value;
-            this.next = null;
-        }
-    }
-
     static class MyLinkedList {
-        Node head;
-        Node tail;
 
-        // 1. Insert at Beginning
-        void insertAtBeginning(int value) {
-            Node newNode = new Node(value);
+        class Node {
+            int val;
+            Node next;
 
-            if (head == null) {
-                head = tail = newNode;
-            } else {
-                newNode.next = head;
-                head = newNode;
+            Node(int val) {
+                this.val = val;
+                this.next = null;
             }
         }
 
-        // 2. Insert at End
-        void insertAtEnd(int value) {
-            Node newNode = new Node(value);
+        Node head, tail;
+        int c;
 
-            if (head == null) {
-                head = tail = newNode;
-            } else {
-                tail.next = newNode;
-                tail = newNode;
+        public MyLinkedList() {
+            head = tail = null;
+            c = 0;
+        }
+
+        public int get(int index) {
+            if (index < 0 || index >= c) return -1;
+
+            Node temp = head;
+            for (int i = 0; i < index; i++) {
+                temp = temp.next;
             }
+
+            return temp.val;
         }
 
-        // 3. Delete First Node
-        void deleteFirst() {
-            if (head == null) return;
-
-            head = head.next;
-
-            if (head == null)
-                tail = null;
+        public void addAtHead(int val) {
+            Node nn = new Node(val);
+            if (head == null) {
+                head = tail = nn;
+            } else {
+                nn.next = head;
+                head = nn;
+            }
+            c++;
         }
 
-        // 4. Delete Last Node
-        void deleteLast() {
-            if (head == null) return;
+        public void addAtTail(int val) {
+            Node nn = new Node(val);
+            if (head == null) {
+                head = tail = nn;
+            } else {
+                tail.next = nn;
+                tail = nn;
+            }
+            c++;
+        }
 
-            if (head.next == null) {
-                head = tail = null;
+        public void addAtIndex(int index, int val) {
+            if (index < 0 || index > c) return;
+
+            if (index == 0) {
+                addAtHead(val);
+                return;
+            }
+            if (index == c) {
+                addAtTail(val);
+                return;
+            }
+
+            Node nn = new Node(val);
+            Node temp = head;
+
+            for (int i = 0; i < index - 1; i++) {
+                temp = temp.next;
+            }
+
+            nn.next = temp.next;
+            temp.next = nn;
+            c++;
+        }
+
+        public void deleteAtIndex(int index) {
+            if (index < 0 || index >= c) return;
+
+            if (index == 0) {
+                head = head.next;
+                c--;
+                if (c == 0) tail = null;
                 return;
             }
 
             Node temp = head;
-            while (temp.next != tail) {
+            for (int i = 0; i < index - 1; i++) {
                 temp = temp.next;
             }
 
-            temp.next = null;
-            tail = temp;
+            temp.next = temp.next.next;
+            if (temp.next == null) {
+                tail = temp;
+            }
+            c--;
         }
 
-        // 5. Count Nodes
-        int count() {
-            int cnt = 0;
-            Node temp = head;
+        // 1. Insert at Beginning
+        public void insertAtBeginning(int val) {
+            addAtHead(val);
+        }
 
+        // 2. Insert at End
+        public void insertAtEnd(int val) {
+            addAtTail(val);
+        }
+
+        // 3. Insert at Position k (0-based)
+        public void insertAtPosition(int k, int val) {
+            addAtIndex(k, val);
+        }
+
+        // 4. Delete First Node
+        public void deleteFirstNode() {
+            deleteAtIndex(0);
+        }
+
+        // 5. Delete Last Node
+        public void deleteLastNode() {
+            if (c == 0) return;
+            deleteAtIndex(c - 1);
+        }
+
+        // 6. Search an Element
+        public boolean searchElement(int target) {
+            Node temp = head;
             while (temp != null) {
-                cnt++;
+                if (temp.val == target) return true;
                 temp = temp.next;
             }
-            return cnt;
+            return false;
         }
 
-        void display() {
+        // 7. Reverse a Linked List
+        public void reverseLinkedList() {
+            Node prev = null;
+            Node curr = head;
+            tail = head;
+
+            while (curr != null) {
+                Node next = curr.next;
+                curr.next = prev;
+                prev = curr;
+                curr = next;
+            }
+            head = prev;
+        }
+
+        // 8. Linked List Cycle (LeetCode 141 style)
+        public boolean hasCycle() {
+            Node fast = head;
+            Node slow = head;
+
+            while (fast != null && fast.next != null) {
+                fast = fast.next.next;
+                slow = slow.next;
+
+                if (fast == slow) {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        // 9. Count Number of Nodes
+        public int countNumberOfNodes() {
+            return c;
+        }
+
+        public void display() {
             Node temp = head;
             while (temp != null) {
-                System.out.print(temp.value + " -> ");
+                System.out.print(temp.val + " -> ");
                 temp = temp.next;
             }
             System.out.println("null");
@@ -92,18 +185,23 @@ public class List {
     public static void main(String[] args) {
         MyLinkedList list = new MyLinkedList();
 
-        list.insertAtEnd(10);
+        list.insertAtBeginning(10);
         list.insertAtEnd(20);
-        list.insertAtBeginning(5);
+        list.insertAtPosition(1, 15);
+        list.display();
 
-        list.display(); // 5 -> 10 -> 20 -> null
+        list.deleteFirstNode();
+        list.deleteLastNode();
+        list.display();
 
-        list.deleteFirst();
-        list.display(); // 10 -> 20 -> null
+        System.out.println("Search 15: " + list.searchElement(15));
 
-        list.deleteLast();
-        list.display(); // 10 -> null
+        list.insertAtEnd(30);
+        list.insertAtEnd(40);
+        list.reverseLinkedList();
+        list.display();
 
-        System.out.println("Count: " + list.count());
+        System.out.println("Has Cycle: " + list.hasCycle());
+        System.out.println("Count: " + list.countNumberOfNodes());
     }
 }
